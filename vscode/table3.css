@@ -1,0 +1,16 @@
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    background-color: blueviolet;
+}
+
+td{
+    text-align: center;
+    
+}
+tr:hover{
+    background-color: blue;
+}

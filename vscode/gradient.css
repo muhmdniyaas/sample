@@ -1,0 +1,25 @@
+/* div{
+    height: 200px;
+    width: 200px;
+    background-image:linear-gradient(blue,red,green,blueviolet);
+} */
+/* 
+div{
+    height: 200px;
+    width: 200px;
+    background-image: radial-gradient(red,blue,green,violet);
+} */
+
+/* div{
+    height: 200px;
+    width: 200px;
+    background-image: repeating-linear-gradient(red,blue,green,black 50px);
+
+} */
+
+div{
+    height: 200px;
+    width: 200px;
+    background-image: repeating-radial-gradient(red,blue,black 50px);
+
+}

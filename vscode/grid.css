@@ -1,0 +1,32 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-columns: 400px 200px min-content;
+    grid-template-rows: auto 400px 500px;
+    column-gap: 8px;
+    row-gap: 8px;
+}
+
+
+
+.one{
+    background-color: green;
+    margin: 5px;
+    padding: 5px;
+}
+.two{
+    background-color: red;
+    margin: 5px;
+    padding: 5px;
+}
+.three{
+    background-color: blue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.big{
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 2;
+}

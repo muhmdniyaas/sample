@@ -1,0 +1,55 @@
+.container{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    background-color: blue;
+    animation-name: move;
+    animation-duration: 3s;
+    animation-iteration-count: 11;    
+}
+
+
+
+
+
+
+
+@keyframes move{
+    0%{
+        left: 0px;
+        top: 0px;
+    }
+    25%{
+        left: 300px;
+        top: 0px
+    }
+    50%{
+        left: 300px;
+        top: 300px;
+    }
+    75%{
+        left: 0px;
+        top: 300px;
+        background-color: yellowgreen;
+
+    }
+    100%{
+        left: 0px;
+        top: 0px;
+    }
+}
+
+.div2{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: blueviolet;
+    animation-name: move;
+    animation-duration: 5s;
+    animation-iteration-count: 13;
+}
+
+
+

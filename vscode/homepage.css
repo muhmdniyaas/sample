@@ -1,0 +1,20 @@
+body{
+    background-image: url(image/pexels-anjana-c-169994-674010.jpg);
+    background-size: 100%;
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    font-size: 20px;
+    padding: 100px;
+
+}
+
+ul{
+    background-color:white;
+}

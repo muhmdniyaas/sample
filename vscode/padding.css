@@ -1,0 +1,13 @@
+h1{
+    border: 1px solid blue;
+    outline: dashed;
+    outline-color: blue;
+    outline-width: 4px;
+    outline-offset: 3px;
+}
+h2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+

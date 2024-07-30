@@ -1,0 +1,14 @@
+table{
+    width: 100%;
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid red;
+    text-align: center;
+    padding: 10px;
+    }
+    th{
+        background-color:blueviolet;
+        
+    }

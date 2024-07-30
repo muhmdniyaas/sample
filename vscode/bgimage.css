@@ -1,0 +1,15 @@
+
+
+h1{
+    text-align: center;
+    color:red;
+    text-decoration: underline;
+}
+
+p{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 25px;
+    text-shadow: 2px 2px 6px black;
+}

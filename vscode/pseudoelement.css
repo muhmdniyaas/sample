@@ -1,0 +1,27 @@
+/* p::first-line{
+    color: red;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} */
+/* 
+p::first-letter{
+    color: red;
+    font-size: 50px;
+} */
+
+h3::before{
+    content: "hi,";
+    color: blue;
+}
+
+h3:hover:after{
+    content: "niyas";
+    color: blueviolet;
+}
+
+h3:hover:after{
+    content: url(image/ingo-doerrie-Fkwj-xk6yck-unsplash.jpg);
+    color: brown;
+}
+

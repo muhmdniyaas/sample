@@ -1,0 +1,12 @@
+form{
+    border: 5px solid white;
+    padding: 250px;
+    text-align: center;
+}
+
+body{
+    background-image: url(image/pexels-anjana-c-169994-674010.jpg);
+}
+label{
+    color: aliceblue;
+}

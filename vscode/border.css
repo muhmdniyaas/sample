@@ -1,0 +1,12 @@
+h1{
+    border-style: solid dashed ridge dotted;
+    border-top-style: dashed;
+    border-width: 20px 5px;
+    border-color: aqua red green yellow;
+
+}
+
+p{
+    border: 1px solid red;
+    border-radius: 5px;
+}

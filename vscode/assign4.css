@@ -1,0 +1,80 @@
+li{
+    display: inline;
+    padding: 10px;
+   
+}
+.container{
+    background-image: url(image/WhatsApp\ Image\ 2024-07-19\ at\ 22.12.06_c16f4f13.jpg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-size: cover;
+   
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.section{
+    background-image: url(image/WhatsApp\ Image\ 2024-07-19\ at\ 22.20.13_be277349.jpg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-size: cover;
+   
+
+}
+.select{
+    border: none;
+    
+}
+ul{
+    text-align: right;
+   
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: white;
+    padding: 10px;
+
+   
+} 
+.box1{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: white;
+    padding: 10px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: white;
+    padding: 10px;
+   
+}
+.unit{
+    display: flex;
+    padding: 20px;
+}
+body{
+    background-image: url(image/green-yellow-pastel-paper-color-texture-background_60487-2420.jpg);
+    padding: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+h6{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+

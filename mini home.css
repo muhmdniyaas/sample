@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h4{
+    color: white;
+    font-size: 20px;
+    transform: translate(20px);
+}
+h3{
+    color: white;
+    font-size: 60px;
+    transform: translate(250px,150px);
+}
+p{
+    border: 2px solid white;
+    background-color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 25px;
+    transform: translate(20px,250px);
+    
+}
+
+.container{
+    color: white;
+    transform: translate(1000px,-2200%);
+}
+li{
+    display: inline;
+}
